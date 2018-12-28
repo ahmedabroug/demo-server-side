@@ -1,0 +1,7 @@
+package com.project.demoserverside.type;
+
+public enum ProductType {
+
+	NUTRITION, SOINS_PERSONNELS, PHARMACEUTIQUES, PLASTIQUES, SPORT, COSMETIQUE, BIOTECHNOLOGIE, ELECTRONIQUE
+
+}
